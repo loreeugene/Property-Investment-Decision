@@ -1,4 +1,5 @@
 # King County Real Estate Pricing and Investment Advisor
+![King County Real Estate Pricing and Investment Advisor](images/KC-Property-Investment-Advisor.png)
 ### Project Summary:
 This project offers a practical exploration of multiple regression modeling techniques, aiming to decode the complex factors influencing house or property prices in King County, Washington, USA, for the years 2014-2015. The dataset encompasses 21,597 real estate transactions and diverse property features. While not all features were used, a meticulous feature selection process was undertaken to optimize the predictive model. The primary objectives include gaining insights, providing decision support, and enhancing data science skills to better understand the King County real estate market.
 
